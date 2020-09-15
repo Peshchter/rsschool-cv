@@ -3,7 +3,7 @@
    * _discord_: putnik#4908
    * _email_: leniviy.putnik@gmail.com
    * _phone_: +7-950-825-00-98 (_after 18-00 GMT+4_)
-3. **About**: _last 10 years I work at state secondary school as a teacher of physics. I want to have more free time and spent it to my hobby, so want go to WebDev. To achive this objective I start to learn JavaScript._
+3. **About**: _last 10 years I work at state secondary school as a teacher of physics. I love programming and want spent more time to my hobby, so want go to WebDev. To achive this objective I start to learn JavaScript._
 4. **Skills**:
    * _Program languages_: Pascal, Python, C++ : all these at school level. Last year try to learn PHP and framework Yii2. Now learning JavaScript for React. 
    * _VCS_: can use GIT with GUI and with shell.
