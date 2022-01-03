@@ -7,7 +7,12 @@
 4. **Skills**:
    * _Program languages_: Pascal, Python, C++ : all these at school level. Last year try to learn PHP and framework Yii2. Now learning JavaScript for React. 
    * _VCS_: can use GIT with GUI and with shell.
-5. **Code examples**: have no public examples, but have public repo on github.
+5. **Code examples**: I have no public examples, so example from [codewars](https://codewars.com):
+````
+function multiply(a, b){
+ return a * b
+}
+````
 6. **Work experience**: I have no work experience in web-developing.
 7. **Education**: 
    * _Primary_: have a diploma as a specilist of the theoretical physics. 
