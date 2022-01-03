@@ -11,7 +11,7 @@ _Last 10 years I work at state secondary school as a teacher of physics. I love 
 ## Skills:
    * _Program languages_: Pascal, Python, C++ : all these at school level. Last year try to learn PHP and framework Yii2. Now learning JavaScript for React. 
    * _VCS_: can use GIT with GUI and with shell.
-
+   
 ## Code examples: 
 I have no public examples, except some public repos, so example from [codewars](https://codewars.com):
 ````
@@ -26,6 +26,6 @@ I have no work experience in web-developing.
 ## Education: 
    * _Primary_: have a diploma as a specilist of the theoretical physics. 
    * _Self Edu_: have some completed courses on stepic.org (_python_) and geekbrains.ru (_php_). Learn every week. *Learning never stops.*
-   
+
 ## English: 
 I have no language practice but can read almost any text without dictionary and understand contents.
