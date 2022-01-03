@@ -28,7 +28,7 @@
     background-size: 100%;
 }
 
-.main {
+.right {
     margin: 150px 0 0 90px;
 }
 
@@ -61,7 +61,7 @@ article>h2 {
     margin-bottom: 10px;
 }
 
-article>p {
+article>p, p {
     font-size: 19px;
     line-height: 26px;
     color: #353535;
@@ -91,4 +91,42 @@ span {
 .icon {
     color: #0067de;
     font-weight: 600;
+}
+
+.links {
+    display: flex;
+    flex-direction: row;
+
+}
+
+.links>li>a>img {
+    height: 50px;
+    margin-right: 50px;
+}
+
+footer{
+    margin: 20px auto;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+.year {
+    margin-right: 50px;
+    align-self: flex-end;
+}
+
+.code {
+    display: flex;
+    background-color: #e6e6e64a;
+    color: #0067de;
+    font-size: 1.3em;
+    margin: 10px auto 0 20px;
+    padding: 20px;
+    width: 300px;
+}
+
+a {
+    color: #0067de; 
+    text-decoration: none;
 }
